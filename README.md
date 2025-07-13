@@ -1,2 +1,2 @@
-# javascript-utilizando-tipos-variaveis-funcoes
+# JavaScript
 Exemplos do curso "JavaScript: utilizando tipos, variáveis e funções" da Alura
